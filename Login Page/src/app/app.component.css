@@ -1,0 +1,111 @@
+mat-card { 
+    background-color: whitesmoke;
+    width: 1200px;
+    height: 612px;
+    margin-left: 72px;
+    margin-top: 35px;
+}  
+
+.mat-elevation-z5 {
+    position: relative;
+    z-index: 2;
+  }
+ 
+.inside {
+    background-color: white;
+    width: 380px;
+    height: 555px;
+
+}
+
+mat-card-title { 
+    margin-top: 20px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: 800;
+    margin-left: 32px;
+    font-size: 34px;
+}
+
+mat-card-subtitle {
+    margin-left: 32px;
+    margin-top: 3px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    color: #898a8c;
+}
+
+p { 
+    font-weight:600;
+    font-family: 'Roboto', sans-serif;
+    font-size: 19px;
+    margin-top: 36px;
+    margin-left: 30px;
+}
+
+input {
+    width: 315px;
+    height: 52px;
+    margin-left: 30px;
+}
+
+::placeholder {
+    color:#898a8c;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.fp {
+    margin-left: 103px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+mat-checkbox { 
+    accent-color: red;
+}
+
+button { 
+    background-color: #CF479E;
+    width: 250px;
+    height: 55px;
+    margin-left: 60px;
+    margin-top: 20px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+}
+.poda{
+    font-size: 11px; 
+margin-left: 140px;
+font-weight: 200;
+position: absolute;
+margin-top: 444px;
+
+}
+.google{
+    width: 120px;
+    height: 40px;
+    position: absolute;
+    margin-top: 480px;
+    margin-left: 45px;
+    
+    color: orange;
+
+}
+.fb{
+    width: 120px;
+height: 40px;
+    position: absolute;
+    margin-top: 480px;
+    margin-left: 203px;
+    
+    
+}
+
+img { 
+    width: 634px;
+    position: absolute;
+    margin-left:500px;
+    margin-top: 34px;
+    height: 556px;
+}
